@@ -3,15 +3,18 @@ permalink: /
 layout: single
 author_profile: false
 full_width: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-
-<!-- 顶部头像和联系方式 -->
-<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 30px; font-family:'SimSun', '宋体'; font-size:14px;">
-  <!-- 头像 -->
+<!-- 顶部头像+联系方式 -->
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 30px; font-family:'SimSun', '宋体', sans-serif; font-size:14px;">
+  <!-- 左边头像 -->
   <img src="/images/zp.jpg" alt="Avatar" 
-       style="width:200px; height:200px; border-radius:50%; object-fit: cover; margin-right:30px; margin-bottom:20px;">
-  <!-- 联系方式 -->
+       style="width:200px; height:200px; border-radius:50%; object-fit: cover; margin-right: 30px; margin-bottom: 20px;">
+  
+  <!-- 右边联系方式 -->
   <div style="line-height:2.0;">
     👩 Name: Yang-Yang Yan<br>
     🎂 Birthday: October 4, 1996<br>
@@ -22,12 +25,12 @@ full_width: true
   </div>
 </div>
 
-<!-- About me 内容 -->
-<div style="font-family:'STFangsong','华文仿宋','SimSun',serif; font-size:16px; line-height:1.8;">
+<!-- 下方正文内容 -->
+<div style="font-family:'STFangsong', '华文仿宋', SimSun, serif; font-size:16px; line-height:1.8;">
 
 ## 🎯 About me
-- I am a registered doctoral student at **Harbin Institute of Technology**, supervised by Professor Wei-Jie Sheng. 
-- I am a joint training doctoral student at **Université d'Aix-Marseille**, supervised by Professor François Hamel.
+- I am a registered doctoral student at **Harbin Institute of Technology**, supervised by Professor Wei-Jie Sheng.  
+- I am a joint training doctoral student at **Université d'Aix-Marseille**, supervised by Professor François Hamel.  
 - I am scheduled to defend my doctoral dissertation and receive my doctorate in **June 2026**.  
 
 ## 🎓 Education

@@ -23,9 +23,12 @@ full_width: true
 <!-- About me 内容 -->
 <div style="font-family:'STFangsong','华文仿宋','SimSun',serif; font-size:16px; line-height:1.8;">
 
-## 🎯 About me
-- I am a registered doctoral student at **Harbin Institute of Technology**, supervised by Professor Wei-Jie Sheng.  
-- I am a joint training doctoral student at **Université d'Aix-Marseille**, supervised by Professor François Hamel.  
+ 🎯 About me
+ ======
+- I am a registered doctoral student at **Harbin Institute of Technology**, supervised by Professor Wei-Jie Sheng.
+   
+- I am a joint training doctoral student at **Université d'Aix-Marseille**, supervised by Professor François Hamel.
+  
 - I am scheduled to defend my doctoral dissertation and receive my doctorate in **June 2026**.  
 
 ## 🎓 Education

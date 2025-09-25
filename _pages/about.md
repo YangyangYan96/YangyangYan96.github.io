@@ -1,8 +1,10 @@
 ---
 permalink: /
+layout: single
 author_profile: false
 full_width: true
 ---
+
 
 <!-- 顶部头像和联系方式 -->
 <div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 30px; font-family:'SimSun', '宋体'; font-size:14px;">

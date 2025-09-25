@@ -51,9 +51,9 @@ redirect_from:
 - (with Wei-Jie Sheng) Transition fronts of combustion reaction-diffusion equations around an obstacle, Calc. Var. Partial Differential Equations 63 (2024), no. 7, Paper No. 180, 63 pp. [(link)](https://link.springer.com/article/10.1007/s00526-024-02794-6)  
 
 ## 🏆 Awards and Honors
-- 2024 International Study Scholarship, awarded by China Scholarship Council  
-- 2018, 2019, 2020 Graduate Academic Scholarship, awarded by Lanzhou University  
-- 2016 Second Prize, The 8th National Undergraduate Mathematics Competition (Mathematics Major Category), awarded by the Chinese Mathematical Society  
-- 2016 National Endeavor Scholarship, awarded by Gansu Provincial Department of Education  
+- 2024 International Study Scholarship, awarded by China Scholarship Council. 
+- 2018, 2019, 2020 Graduate Academic Scholarship, awarded by Lanzhou University.  
+- 2016 Second Prize, The 8th National Undergraduate Mathematics Competition (Mathematics Major Category), awarded by the Chinese Mathematical Society. 
+- 2016 National Endeavor Scholarship, awarded by Gansu Provincial Department of Education.
 
 </div>

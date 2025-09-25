@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- 顶部头像+联系方式 -->
-<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 30px; font-family:'SimSun', '宋体', sans-serif; font-size:14px;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 30px; font-family:'SimSun', '宋体', sans-serif; font-size:16px;">
   <!-- 左边头像 -->
   <img src="/images/zp.jpg" alt="Avatar" 
        style="width:200px; height:200px; border-radius:50%; object-fit: cover; margin-right: 30px; margin-bottom: 20px;">
@@ -26,7 +26,7 @@ redirect_from:
 </div>
 
 <!-- 页面主体内容 -->
-<div style="font-family:'STFangsong', '华文仿宋', SimSun, serif; font-size:16px; line-height:1.8;">
+<div style="font-family:'STFangsong', '华文仿宋', SimSun, serif; font-size:17px; line-height:1.8;">
 
 <h2>🎯 About me</h2>
 <ul>
